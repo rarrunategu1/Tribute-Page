@@ -1,0 +1,84 @@
+<h1 class="blue">A Tribute To Life</h1>
+<h2 id="white-text" class="blue-text text-align">My Experience of It</h2>
+<img class="thin-green-border" src="http://www.hdwallpaperup.com/wp-content/uploads/2015/01/Planet-Earth-in-Space-680x425.jpg" alt="Earth floating in space">
+<p class="paragraph-font">We humans spend life living in our own worlds of emotion, lost in thoughts we 
+consider unchosen, sometimes refusing to want to continue this "victimized" existence
+that we've unknowingly created.  But Life is more than that I found.  We get lost in
+the fog and don't realize quite yet that there is a way to step outside of that. 
+Once you find the way, you'll look at the wonder that exists, just as we do and 
+see it as beautiful, harmonious, expressions of LOVE, of Art, of Intelligence.</p>
+<p>Feel the air, the oxygen that runs through your nose and into your lungs filling 
+you completely and then being exhaled as CO2 to feed the plants that you live amongst. 
+We are a part of something greater here.  If you look up to the sky, you've got to see 
+it, right?  Or have you locked yourself up in the world you've created?  All it takes 
+it is for you to crack a window open so that you can have a glimpse to what you're 
+really a part of.  Maybe we spend so much time inside our own minds in order to 
+eventually bring us to the realization of something greater.  Everything does start 
+with an invisible form.  An idea, right?  How did I find that idea for myself?  Well, 
+the practice of meditation brought me to Life.</p><p>You always have thoughts that drift 
+through your mind like clouds.  I practice choosing my thoughts. I chose to place a thought
+in my head, a thought that made me experience a divine presence permeating every cell and 
+fiber of my being and beyond that.  Something, that is One but permeates through all as all. 
+Something that feels like unconditional Love, unshakeable Peace, Intelligence, Creativity, Bliss. 
+What a wonderful thing to experience.  I believe once I realized that, I saw what I was a part of 
+and I began experiencing "LIFE".</p><p>A quick way to appreciate life is to be in the present.  Here a few steps that can help you find that:
+<ul><li>Find a quiet place</li><li>Sit comfortably, take a deep breath in and exhale slowly</li>
+<li>As you continue to breathe feel the air and listen to the sounds</li><li>Relax your body and close
+your eyes as you continue to breathe deeply</li></ul>
+<p>Life is all there is.  Although I don't always walk around in this realization, everytime I feel
+a breeze through my hair, or I hear a bird, or a see a smile from someone, 
+something fills me and I realize with that one exhale that this "Thing" permeates all of existence 
+whether seen or unseen by my eyes.  I am immersed in It.  Science classes are great to take with 
+the detailed look on life, down to the invisible.  I believe linking spirit (not religion) and 
+science could solve many problems we experience today and I know there's already proof of it taking 
+place.</p><p2 class="animated bounce">I found a nice little video that has a written meditation and beautiful scenery that I'm 
+sure you'll enjoy. Click on the lotus flower below to watch it.</p2>
+<p><a href="https://www.youtube.com/watch?v=q9SjEydhQVg">
+<img class="circlepic :hover" src="https://s-media-cache-ak0.pinimg.com/736x/62/a4/7d/62a47d8e4ab364cf476f25a473b23c75.jpg" 
+alt="glowing lotus flower"></p></a>
+<div><p3 class="green-text">Enter your email for daily inspiration:</p3>
+<form action="life-url">
+  <input type="text" placeholder="email address">
+  <button type="submit">Submit</button>
+</form></div>
+<style>.thin-green-border{border-color:green;
+border-width:5px;
+border-style:solid;
+border-radius:100px;}
+.circlepic{border-width: 0px;
+border-style: outset;
+border-radius: 200px;
+width:150px;
+height: auto;
+}
+p {font-size: 18px;}
+ul {font-size: 18px;}
+p3 {font-size: 18px; text-align: center;
+}
+img {display: block;
+    margin: auto;
+    width: 40%;}
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+div {float:right;}
+.green-text {color:green;}
+
+body {margin:40px 200px 40px 200px;
+padding:0; background-color: silver;
+}
+.text-align {text-align: center;}
+h1{font-size:30px; font-family:arial;
+font-weight: bold;
+    text-align: center;
+    padding:20px 10px 20px 20px;
+}
+
+p2 {font-size: 18px;
+animation-name: bounce;
+animation-duration: 120s;
+}
+.blue-text {color:blue;}
+#white-text {color: white;}
+.blue {color:black; background:green;}</style>
